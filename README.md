@@ -21,3 +21,9 @@ This data had information about the sucide cases in india 2001-2012.</br >
 #CONCLUSION</br >
 Conclusion taken is most people have used hanging as a means to sucide,and the second means is by consuming poison.The cause of sucide is mostly family problems and somewhat due to diseases.most of the cases from married and divorce or widow peoples.women who are housewives,people engaged in farming activities,children in primary,middle school,or no education suicied the most.
 
+#GROUP MEMBERS</br >
+NVVR.Vineetha</br >
+SKAM.Sharuna</br >
+P.Sasi priya</br >
+O.Rishitha</br >
+R.Bhavani</br >
